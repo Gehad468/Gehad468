@@ -2,14 +2,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=22&duration=5002&pause=1000&color=A91C8A&background=7962BD00&random=false&width=435&lines=I+am+a+Software+Engineering++)](https://git.io/typing-svg)
 <br>
 <a href='https://www.linkedin.com/in/gehad-marawan/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://leetcode.com/gehadmarawan/'><img alt="Leetcode" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/leetcode.svg" height='18px'/></a>
+<a href='https://leetcode.com/Gehad468/'><img alt="Leetcode" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/leetcode.svg" height='18px'/></a>
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐,) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+a dedicated software engineer on a mission to craft robust and innovative solutions. With a passion for code and a knack for problem-solving.<br/>
 <br/>
-<br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Gehad468/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
@@ -17,7 +16,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 🤝 &nbsp; I Graduated From Faculty of Computer Science
 -  &nbsp; As a CS student, I'm learning and exploring new technologies to improve my skills; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Gehad468)
-- 🎨 &nbsp; Using Figma (https://www.figma.com/file/b8QOPC05CQOMCqs9CvD2gP/Untitled?type=design&t=Q7jIb38t5LafIgJ0-6)  👉
 - 💬 &nbsp; Ask me about anything tech-related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/gehad-marawan/).
 - 📧 Reach me anytime: gehadmarawan7@gmail.com
@@ -37,12 +35,24 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
+<p align="center">
+  <a href="https://github.com/Gehad468">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gehad468&theme=radical&border=7F3FBF&background=0D1117" alt="Gehad's GitHub streak"/>
+  </a>
+</p>
 
-### 📊 Github Stats
-<a href='https://github.com/Gehad468/'>
-  
-![Stats Overview](https://raw.githubusercontent.com/Gehad468/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Gehad468/github-stats-transparent/output/generated/languages.svg)
+<p align="center">
+  <a href="https://github.com/Gehad468">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gehad468&theme=radical" alt="Gehad's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+   <a href="https://github.com/Gehad468"> <img alt="Gehad's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Gehad468&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Gehad468">
+    <img alt="Gehad's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Gehad468&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/> 
+  </a>
+  <br/>
 
 </a>
 
