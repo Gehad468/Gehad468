@@ -1,5 +1,6 @@
 ## Hey 👋, I'm Gehad Mohamed!
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=22&duration=5002&pause=1000&color=A91C8A&background=7962BD10&random=false&width=435&lines=I+am+a+Software+Engineering++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=22&duration=5002&pause=1000&color=A91C8A&background=7962BD00&random=false&width=435&lines=I+am+a+Software+Engineering++)](https://git.io/typing-svg)
+<br>
 <a href='https://www.linkedin.com/in/gehad-marawan/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://leetcode.com/gehadmarawan/'><img alt="Leetcode" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
