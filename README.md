@@ -1,8 +1,8 @@
 ## Hey 👋, I'm Gehad Mohamed!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=22&duration=5002&pause=1000&color=A91C8A&background=7962BD00&random=false&width=435&lines=I+am+a+Software+Engineering++)](https://git.io/typing-svg)
 <br>
-<a href='https://www.linkedin.com/in/gehad-marawan/'><img align='left' alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height='18px'/></a>
-<a href='https://leetcode.com/gehadmarawan/'><img alt="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height='18px'/></a>
+<a href='https://www.linkedin.com/in/gehad-marawan/'><img align='left' alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height='20px'/></a>
+<a href='https://leetcode.com/gehadmarawan/'><img alt="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height='22px'/></a>
 
 
 
@@ -40,7 +40,7 @@ a dedicated software engineer on a mission to craft robust and innovative soluti
 
 <p align="center">
   <a href="https://github.com/Gehad468">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gehad468&theme=radical&border=7F3FBF&background=0D1117" alt="Gehad's GitHub streak"/>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Gehad468/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="Figma" height='42px'/> </a>
   </a>
 </p>
 
