@@ -33,16 +33,13 @@ a dedicated software engineer on a mission to craft robust and innovative soluti
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Gehad468/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="Figma" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Gehad468/github_readme_icons/main/language_and_tools/square/figma/figma.svg
+" alt="Figma" height='42px'/> </a>
 
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/Gehad468">
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Gehad468/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="Figma" height='42px'/> </a>
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/Gehad468">
