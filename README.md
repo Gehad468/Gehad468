@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Gehad Mohamed!
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=22&duration=5002&pause=1000&color=A91C8A&background=7962BD00&random=false&width=435&lines=I+am+a+Software+Engineer++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F707CA&random=false&width=435&lines=I'm+a+Front-End+Developer)](https://git.io/typing-svg)
 <br>
 <a href='https://www.linkedin.com/in/gehad-marawan/'><img align='left' alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height='20px'/></a>
 <a href='https://leetcode.com/gehadmarawan/'><img alt="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height='22px'/></a>
