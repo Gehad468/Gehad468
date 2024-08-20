@@ -14,7 +14,7 @@ a dedicated software engineer on a mission to craft robust and innovative soluti
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently training on **ITI**
+- 🔭 &nbsp; I recently graduated from **ITI** Open Source Track
 - 🤝 &nbsp; I Graduated From Faculty of Computer Science
 -  &nbsp; As a CS student, I'm learning and exploring new technologies to improve my skills; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Gehad468)
